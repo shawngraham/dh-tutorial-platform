@@ -127,6 +127,8 @@ The practice of writing data biographies connects to broader movements in data e
 Given raw metadata about a colonial newspaper corpus, construct a complete data biography as a Python dictionary. Fill in both the factual fields (drawn from the metadata) and the critical fields (requiring scholarly judgment about inclusion, exclusion, and ethics). *(There is no single correct output for the critical fields. What matters is that each is substantive, specific to the colonial context, and longer than a placeholder phrase.)*
 :::
 
+---challenges---
+
 ### Challenge: Construct and Audit a Data Biography
 
 - id: critical-data-05-c1
