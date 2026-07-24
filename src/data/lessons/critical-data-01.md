@@ -147,6 +147,8 @@ These questions are the foundation of critical data studies. They do not require
 Given a list of historical occupation labels, write code that groups them into two different categorization schemes and prints the counts for each, showing how the grouping changes what we "see."
 :::
 
+---challenges---
+
 ### Challenge: Re-Categorizing Historical Occupations
 
 - id: critical-data-01-challenge

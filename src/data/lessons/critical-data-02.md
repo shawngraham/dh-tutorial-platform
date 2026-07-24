@@ -108,6 +108,8 @@ Think about a dataset or archive you work with:
 Given a dictionary of archive entries with demographic attributes, calculate the percentage representation for each group across two dimensions and identify the most significant gap.
 :::
 
+---challenges---
+
 ### Challenge: Measure the Gaps in an Archive
 
 - id: critical-data-02-c1
